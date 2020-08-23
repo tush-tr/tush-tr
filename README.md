@@ -10,3 +10,4 @@ I mostly work on python(django) and front-end technologies.
 <img src="res/django.png" height="90" >
 
 </p>
+<a href="https://www.linkedin.com/in/tushar-r-849510116/">Connect with me on linkedin</a>
