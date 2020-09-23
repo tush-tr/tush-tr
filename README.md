@@ -4,37 +4,37 @@
 I'm very passionate about cloud native technologies and DevOps.<br>
 I mostly work with python(django) , JavaScript and front-end technologies.
 <p>
-<b>Programming Languages</b>
+<b>Programming Languages</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/Python.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/c.png" height="90" >
 <br>
-<b>Front end technologies and frameworks</b>
+<b>Front end technologies and frameworks</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="90" ><br>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="90" >
 <br>
-<b>Backend Development</b>
+<b>Backend Development</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="90" >
 <br>
-<b>CSPs</b>
+<b>CSPs</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="90" >
 <br>
-<b>Cloud Native technologies and version control</b>
+<b>Cloud Native technologies and version control</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/gir.gif" height="90" >
 <br>
-<b>Stacks I use</b>
+<b>Stacks I use</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="90" >
 <br>
-<b>Datbases</b>
+<b>Datbases</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="90" >
 </p>
 <div>
