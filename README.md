@@ -1,6 +1,6 @@
-# Hey there, I am Tushar Rajput.<br>
-## a passionate developer with a strong interest in technologies. <br>
-<b>I love to learn new technologies and have ability to learn new things and technologies quickly</b>
+## Hey there, I am Tushar Rajput.<br>
+### a passionate developer with a strong interest in technologies. <br>
+<b>I love to learn new technologies and have ability to learn new things and technologies quickly</b><br>
 I'm very passionate about cloud native technologies and DevOps.<br>
 I mostly work with python(django) , JavaScript and front-end technologies.
 <p>
@@ -10,29 +10,30 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/c.png" height="90" >
 <br>
 <b>Front end technologies and frameworks</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" height="75" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" height="75" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="75" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" height="65" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="65" >
 <br>
 <b>Backend Development</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="70" >
 <br>
 <b>CSPs</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="80" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="80" >
 <br>
 <b>Cloud Native technologies and version control</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/gir.gif" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="80" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="80" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" height="70" >
 <br>
 <b>Stacks I use</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="90" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="65" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="65" >
+<br>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="65" >
 <br>
 <b>Datbases</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="90" >
