@@ -25,7 +25,7 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" height="70" >
 <br>
 <b>Datbases</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="90" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="80" >
 </p>
 <div>
 <h3>Connect with me</h3>
