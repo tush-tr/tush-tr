@@ -17,8 +17,7 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="65" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="70" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="70" >
-<br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="65" width="120" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="75" width="250" >
 <br>
 <b>CSPs and Cloud Native Technologies</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="80" >
@@ -36,3 +35,4 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <a href="https://www.linkedin.com/in/tushar-r-849510116/">Connect with me on linkedin</a>
 </p>
 </div>
+
