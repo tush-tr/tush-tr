@@ -9,31 +9,23 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="90" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/c.png" height="90" >
 <br>
-<b>Front end technologies and frameworks</b><br>
+<b>Development tools and technologies</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" height="75" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" height="75" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="75" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" height="65" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="65" >
-<br>
-<b>Backend Development</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="70" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="70" >
 <br>
-<b>CSPs</b><br>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="65" width="120" >
+<br>
+<b>CSPs and Cloud Native Technologies</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="80" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="80" >
-<br>
-<b>Cloud Native technologies and version control</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="80" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="80" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" height="70" >
-<br>
-<b>Stacks I use</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="65" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="65" >
-<br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mern.jpeg" height="65" >
 <br>
 <b>Datbases</b><br>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="90" >
