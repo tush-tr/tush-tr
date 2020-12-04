@@ -11,7 +11,6 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <a href=""><img src="https://github.com/tush-tr/tush-tr/blob/master/res/Python.gif" height="80" ></a>
 <a href=""><img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="80" ></a>
 
-<br>
 <b>Development tools and technologies</b><br>
 <a href="https://github.com/tush-tr/html_and_css"><img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" height="70" ></a>
 <a href="https://github.com/tush-tr/html_and_css"><img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" height="70" ></a>
@@ -20,25 +19,26 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" height="70" >
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" height="70" >
 <a href="https://github.com/tush-tr/node_and_express"><img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" height="70" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/merns.jpeg" height="70" width="250" >
-<br>
-<b>CSPs and Cloud Native Technologies</b><br>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="80" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="80" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="80" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="80" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" height="80" >
-<br>
-<b>Datbases</b><br>
-<a href="https://github.com/tush-tr/node_and_express/tree/main/intro_to_mongodb"><img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="80" ></a>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" height="80" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/firebase.gif" height="80" >
-</p>
-<div>
-<h3 style="text-align: center; font-weight: bold;">Connect with me</h3>
-<p>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/merns.jpeg" height="70" width="250" ></a>
 
-<a href="https://www.linkedin.com/in/tushar-r-849510116/" >Connect with me on linkedin</a>
+<b>CSPs and Cloud Native Technologies</b>
+<br>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/aws.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" height="70" >
+
+<b>Datbases</b><br>
+
+<a href="https://github.com/tush-tr/node_and_express/tree/main/intro_to_mongodb"><img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" height="70" ></a>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/firebase.gif" height="70" >
 </p>
-</div>
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/tushar-r-849510116/" ><img src="res/linkedin.png" height="30"></a>
+<a href="https://twitter.com/tush_tr604?s=08" target="_blank"><img src="res/twitter.png" height="30"></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=tush-tr&show_icons=true&hide_border=truetheme=cobalt">
