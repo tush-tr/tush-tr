@@ -41,4 +41,4 @@ I mostly work with python(django) , JavaScript and front-end technologies.
 <a href="https://www.linkedin.com/in/tushar-r-849510116/" >Connect with me on linkedin</a>
 </p>
 </div>
-
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&show_icons=true&hide_border=truetheme=cobalt)
