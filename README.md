@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" />
+<a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=for-the-badge" alt="tush_tr604" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tush_tr604" target="blank"><img src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=for-the-badge" alt="tush_tr604" /></a> </p>
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
+<br>
+
+<p>
 
 - 🔭 I’m currently working on [College Review web app](https://github.com/tush-tr/college-review)
 
@@ -16,6 +20,7 @@
 - 💬 Ask me about **JavaScript and Coding career paths**
 
 - 📫 How to reach me **tusharrajput604@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -49,10 +54,10 @@
 </p>
 <!-- ______________________________________________________________________ -->
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" width="40" height="40" ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="40" height="40" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" width="60" height="40" ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </p>
 
 <p>
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tush-tr&show_icons=true&locale=en&layout=compact" alt="tush-tr" width="50%" height="200px">
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=tush-tr&show_icons=true&locale=en" alt="tush-tr" width="50%" height="200px">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tush-tr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="tush-tr">
+
 </p>
