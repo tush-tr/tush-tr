@@ -32,7 +32,7 @@
 <a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tusharrajput604" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Skills</h2><hr>
+<h2 align="center">Skills</h2>
 <p> 
 <h3>Programming Languages: </h3>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="55" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="55"/> 
@@ -63,7 +63,7 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="50"/>
 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tush-tr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="tush-tr">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tush-tr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="tush-tr">
 
 </p>
