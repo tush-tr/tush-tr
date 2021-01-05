@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Tushar Rajput</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-<p> <img src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" />
-<a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=for-the-badge" alt="tush_tr604" /></a> </p>
+<h2>Hi 👋, I'm <a href="https://tush-tr.github.io/"> Tushar Rajput</a></h2>
+<h3>A passionate and creative developer from India.</h3>
+<p><img src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" /><a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a></p>
+<!-- for-the-badge -->
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
 <br>
-
 <p>
 
-- 🔭 I’m currently working on [College Review web app](https://github.com/tush-tr/college-review)
+- 👨‍💻 Checkout my portfolio to know more at [https://tush-tr.github.io/](https://tush-tr.github.io/)
 
-- 🌱 I’m currently learning **React js and django**
+- 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate on [Frontend Landing Pages](https://github.com/tush-tr/frontend-landing-pages)
-
-- 👨‍💻 All of my projects are available at [https://tush-tr.github.io/](https://tush-tr.github.io/)
+- 👨‍💻 All of my projects are available at [https://tush-tr.github.io/projects](https://tush-tr.github.io/projects)
 
 - 💬 Ask me about **JavaScript and Coding career paths**
 
-- 📫 How to reach me **tusharrajput604@gmail.com**
 </p>
+<br>
+<!-- Information -->
+<p>
+I mostly work on backend development with express js(node js) and django framwork. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js.
+Programming languages I know are Python, javaScript, C++ and C language.
+</p>
+<p>
+Tech Stacks that I mostly use for developing and debugging web applications are MERN Stack(MongoDB, React, Express, Node js) and Django with React. I also work on developing native apps using React Native, Scripting,web scraping and automation with Python.
+</p>
+<p>
+I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -32,8 +39,7 @@
 <a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tusharrajput604" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Skills</h2>
-<h3>Programming Languages: </h3>
+<h2>Skills</h2>
 <p> 
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="55" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="55"/> 
 </p>
