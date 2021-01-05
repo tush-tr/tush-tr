@@ -41,33 +41,33 @@ I love to learn new technologies always. I have ability to learn things faster. 
 
 <h2>Skills</h2>
 <p> 
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="55" width="40" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="55"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="55"/> 
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="65" width="50" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="65"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="65"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="65"/> 
 </p>
 <!-- ___________________________________________________________________________ -->
 <h3>Development tools and frameworks:</h3>
 <p>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" width="40" height="50"/> 
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" alt="css3" width="40" height="50"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" alt="bootstrap" width="40" height="50"/> 
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" width="50" height="60"/> 
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" alt="css3" width="50" height="60"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/bootstrap.gif" alt="bootstrap" width="50" height="60"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="50"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" width="40" height="50"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" width="40" height="50"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" alt="django" width="40" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="60"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" width="50" height="60"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" width="50" height="60"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" alt="django" width="50" height="60"/>
 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="50"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="60"/>
 
 </p>
 <!-- ______________________________________________________________________ -->
 <h3>CSPs and others</h3>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="50"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="50"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" width="40" height="50" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" width="40" height="50" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="40" height="50" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" width="60" height="50" ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="60"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="60"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="60"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="60"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/do.gif" width="50" height="60" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" width="50" height="50" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="50" height="60" ><img src="https://github.com/tush-tr/tush-tr/blob/master/res/Gir.gif" width="60" height="60" ><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="60"/>
 </p>
 <h3>Databases:</h3>
 <p>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" width="40" height="50"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" width="40" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="50"/></p>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" width="50" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="60"/></p>
 
 
 <p align="center">
