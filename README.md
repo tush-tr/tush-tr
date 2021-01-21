@@ -2,6 +2,7 @@
 <h3>A passionate and creative developer from India.</h3>
 <p><img src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" /><a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a></p>
 <!-- for-the-badge -->
+<a href="https://www.linkedin.com/in/tushar-r-849510116/ target="blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="tush_tr604" /></a>
 
 ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
 <br>
