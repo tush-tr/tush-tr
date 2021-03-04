@@ -13,18 +13,19 @@
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://tush-tr.github.io/projects](https://tush-tr.github.io/projects)
-
-- 💬 Ask me about **JavaScript and Coding career paths**
-
 </p>
 <br>
 <!-- Information -->
 <p>
-I mostly work on backend development with express js(node js) and django framwork. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js.
+I mostly work on developing and debugging web app backends, APIs, libraries and tools using JavaScript and Python. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js.
+ 
 Programming languages I know are Python, javaScript, C++ and C language.
 </p>
 <p>
-Tech Stacks that I mostly use for developing and debugging web applications are MERN Stack(MongoDB, React, Express, Node js) and Django with React. I also work on developing native apps using React Native, Scripting,web scraping and automation with Python.
+Proficient in building servers and APIs using 𝗥𝗘𝗦𝗧, 𝗛𝗧𝗧𝗣/𝗝𝗦𝗢𝗡.
+</p>
+<p>
+Tech Stack that I mostly use for developing and debugging web applications- MERN Stack(MongoDB, React, Express, Node js). 
 </p>
 <p>
 I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.</p>
