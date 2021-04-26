@@ -56,7 +56,6 @@ I love to learn new technologies always. I have ability to learn things faster. 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="60"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" width="50" height="60"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" width="50" height="60"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/django.png" alt="django" width="50" height="60"/>
 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="60"/>
