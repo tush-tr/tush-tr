@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm <a href="https://tush-tr.github.io/"> Tushar Rajput</a></h2>
+<h2>Hi 👋, I'm <a href="https://tush-tr.github.io/"> Tushar Rajpoot</a></h2>
 <h3>A passionate and creative developer from India.</h3>
 <p><img align="right" src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" /><a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a></p><br>
 <!-- for-the-badge -->
