@@ -43,7 +43,7 @@ I love to learn new technologies always. I have ability to learn things faster. 
 
 <h2>Skills</h2>
 <p> 
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="70"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
 </p>
 <!-- ___________________________________________________________________________ -->
 <h3>Development tools and frameworks:</h3>
