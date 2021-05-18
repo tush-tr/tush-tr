@@ -42,11 +42,15 @@ I love to learn new technologies always. I have ability to learn things faster. 
 </p>
 
 <h2>Skills</h2>
-<p> 
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"height="50"/>
+<p float="left"> 
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="55">
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="70"/> 
 </p>
 <!-- ___________________________________________________________________________ -->
-<h3>Development tools and frameworks:</h3>
+<h3>Development tools, technologies and frameworks:</h3>
 <p>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" width="50" height="60"/> 
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" alt="css3" width="50" height="60"/>
@@ -56,7 +60,7 @@ I love to learn new technologies always. I have ability to learn things faster. 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="60"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" width="50" height="60"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" width="50" height="60"/>
-
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="60" />
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="60"/>
 
