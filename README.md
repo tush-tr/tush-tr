@@ -17,7 +17,7 @@
 <br>
 <!-- Information -->
 <p>
-I mostly work on developing and debugging web app backends, APIs, libraries and tools using JavaScript and Python. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js. I'm currently working as a Junior Developer at HCL Technologies Noida. I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.
+I mostly work on developing and debugging web app backends, APIs, libraries and tools using JavaScript and Python. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js. I'm currently working as a Software Engineer at HCL Technologies Noida. I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.
  
 Programming languages I know are Python, javaScript, C++ and C language.
 </p>
