@@ -10,7 +10,9 @@
 
 - 👨‍💻 Checkout my portfolio to know more at [https://tush-tr.github.io/](https://tush-tr.github.io/)
 
-- 🌱 I’m currently learning **Typescript**
+- 👨‍💻 Checkout my blogs at [https://tush-tr.github.io/blogs](https://tush-tr.github.io/blogs)
+
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [https://tush-tr.github.io/projects](https://tush-tr.github.io/projects)
 </p>
