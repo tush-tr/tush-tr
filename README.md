@@ -49,7 +49,6 @@ I love to learn new technologies always. I have ability to learn things faster. 
 <h2>Skills</h2>
 <p float="left">
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="50" />
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"height="60"/> 
@@ -69,12 +68,12 @@ I love to learn new technologies always. I have ability to learn things faster. 
 <!-- ______________________________________________________________________ -->
 <h3>CSPs and DevOps</h3>
 <p>
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/gcp.png" width="100" height="65" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="60"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" width="50" height="50" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="50" height="60" >
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" width="200" height="80" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="70"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="70" >
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif" width="70" height="70" >
    <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" height="70" />
   </a>
 </p>
 <h3>Databases:</h3>
