@@ -1,20 +1,19 @@
-<h2>Hi 👋, I'm <a href="https://tush-tr.github.io/"> Tushar Rajpoot</a></h2>
-<h3>A passionate and creative developer from India.</h3>
-<p><img align="right" src="https://komarev.com/ghpvc/?username=tush-tr&label=Profile%20views&color=0e75b6&style=flat" alt="tush-tr" width="100" /><a href="https://twitter.com/tush_tr604" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a></p><br>
-<!-- for-the-badge -->
-<a href="https://www.linkedin.com/in/tushar-r-849510116/ target="blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="tush_tr604" /></a>
+<h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar Rajpoot</a></h2>
 
-![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
-<br>
-<p>
 
+<h3>A passionate developer from India with a strong interest in Cloud-Native technologies.</h3>
+
+<p align="left">
+ 
 - 👨‍💻 Checkout my portfolio to know more at [https://tush-tr.github.io/](https://tush-tr.github.io/)
 
 - 👨‍💻 Checkout my blogs at [https://tush-tr.github.io/blogs](https://tush-tr.github.io/blogs)
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Kubernetes & other DevOps tools**
 
 - 👨‍💻 All of my projects are available at [https://tush-tr.github.io/projects](https://tush-tr.github.io/projects)
+ </p>
+<p align="right"><a href="https://twitter.com/tush_tr604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tush_tr604" height="30" width="40" /></a><a href="https://linkedin.com/in/tushar-r-849510116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-r-849510116" height="30" width="40" /></a><a href="https://instagram.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tush_tr" height="30" width="40" /></a><a href="https://www.hackerrank.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tush_tr" height="30" width="40" /></a><a href="https://www.leetcode.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tush_tr" height="30" width="40" /></a><a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tusharrajput604" height="30" width="40" /></a></p>
 </p>
 <br>
 <!-- Information -->
@@ -31,6 +30,15 @@ Tech Stack that I mostly use for developing and debugging web applications- MERN
 </p>
 <p>
 I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.</p>
+
+<p align="center">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=tush-tr&theme=react&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
+</p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
