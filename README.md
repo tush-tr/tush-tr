@@ -21,18 +21,20 @@
 <br>
 <!-- Information -->
 <p>
-I mostly work on developing and debugging web app backends, APIs, libraries and tools using JavaScript and Python. I have command on various frontend technologies like HTML, CSS, Vanilla js, React js. I'm currently working as a Software Engineer at HCL Technologies Noida. I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.
+I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, TypeScript, etc.</p>
+
+<p>
+ I'm currenty working as a DevOps Engineer at HCL Technologies. I mostly work on designing and developing features and enhancements with Node.js and cloud-native technologies for our products,
+creating fully automated CI/CD workflows using github actions, jenkins
+and building scalable servers, infrastructure using cloud-native technologies such as Terraform, GCP, Docker, Kubernetes.
+</p>
+
+<p>
+ Along with my Full-time job, I'm always open to work as a freelancer on projects based on frontend, backend development and DevOps.
+</p>
  
-Programming languages I know are Python, javaScript, C++ and C language.
-</p>
-<p>
-Proficient in building servers and APIs using 𝗥𝗘𝗦𝗧, 𝗛𝗧𝗧𝗣/𝗝𝗦𝗢𝗡.
-</p>
-<p>
-Tech Stack that I mostly use for developing and debugging web applications- MERN Stack(MongoDB, React, Express, Node js). 
-</p>
-<p>
-I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.</p>
+<p>I have command on various frontend technologies like HTML, CSS, Vanilla js, React js and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to developing materials and projects on innovative ideas. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
+
 
 
 
