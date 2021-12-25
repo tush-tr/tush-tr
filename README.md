@@ -3,6 +3,8 @@
 
 <h3>A passionate developer from India with a strong interest in Cloud-Native technologies.</h3>
 
+<img src="/res/MicrosoftTeams-image%20(12).png" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
 
 <p align="left">
