@@ -3,6 +3,8 @@
 
 <h3>A passionate developer from India with a strong interest in Cloud-Native technologies.</h3>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
+
 <p align="left">
  
 - 👨‍💻 Checkout my portfolio to know more at [https://tush-tr.github.io/](https://tush-tr.github.io/)
@@ -29,14 +31,6 @@ Tech Stack that I mostly use for developing and debugging web applications- MERN
 </p>
 <p>
 I love to learn new technologies always. I have ability to learn things faster. I love to developing materials and projects on innovative ideas.</p>
-
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=tush-tr&theme=react&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
-</p>
-
-
 
 
 
@@ -83,11 +77,13 @@ I love to learn new technologies always. I have ability to learn things faster. 
 </p>
 <h3>Databases:</h3>
 <p>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" width="50" height="60"/><img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" width="50" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="60"/></p>
-
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" width="50" height="60"/>
+<img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" width="50" height="60"/> 
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tush-tr&langs_count=12&layout=compact&theme=onedark" alt="tush-tr">
-
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=tush-tr&theme=react&cache_seconds=30&hide_border=true"/>
 </p>
+
+<hr>
