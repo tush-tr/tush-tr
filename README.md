@@ -5,7 +5,7 @@
 
 <img src="/res/MicrosoftTeams-image%20(12).png" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
+
 
 <p align="left">
  
@@ -86,6 +86,7 @@ I love to learn new technologies always. I have ability to learn things faster. 
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=tush-tr&theme=react&cache_seconds=30&hide_border=true"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
 </p>
 
 <hr>
