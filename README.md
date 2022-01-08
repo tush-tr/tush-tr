@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar Rajpoot</a></h2>
+<h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h2>
 
 
 <h3>A passionate developer from India with a strong interest in Cloud-Native technologies.</h3>
