@@ -7,15 +7,18 @@
 
 <b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
 
-### Projects
-
+### Projects:
+<li><a href="https://tush-tr.github.io/">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
+<li><a href="https://tush-tr.github.io/blogs/">My Blog Website </a>- A blog website, built using nodejs, react, deployed to github pages using github actions.
 <li><a href="https://github.com/tush-tr/gcloudact">GcloudAct</a> - A Terraform module for hosting your own runner for CI/CD on Google Cloud to run jobs in your GitHub Actions workflows.
-<li><a href="https://github.com/tush-tr/blogs"> </>-
-<li><a href=""></a> -
-<li><a href=""></a> -
+<li><a href="https://github.com/tush-tr/car-rental-system">Car Rental System</a> - A car rental system website built using nodejs and EJS.
+
+### Libraries, JavaScript packages and tools : 
+<li><a href="https://www.npmjs.com/package/@tush-tr/csv2json">csv2json</a> - A npm package to convert your csv files to json.
+<li><a href="https://www.npmjs.com/package/@tush-tr/nosondb">NosonDB</a> - A Simple , Lightweight , Efficent JSON based database for Nodejs.
+
  
- 
-<br>
+<hr>
 <!-- Information -->
 <p>
 I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, TypeScript, etc.</p>
@@ -31,7 +34,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 </p>
  
 <p>I have command on various frontend technologies like HTML, CSS, Vanilla js, React js and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to developing materials and projects on innovative ideas. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
