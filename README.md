@@ -22,7 +22,7 @@
 I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, TypeScript, etc.</p>
 
 <p>
- I'm currenty working as a DevOps Engineer at HCL Technologies. I mostly work on designing and developing features and enhancements with Node.js and cloud-native technologies for our products,
+ I'm currenty working as a DevOps Engineer at HCL Technologies. I mostly work on designing and developing features and enhancements with Node.js and cloud-native technologies for our client's products,
 creating fully automated CI/CD workflows using github actions, jenkins
 and building scalable servers, infrastructure using cloud-native technologies such as Terraform, GCP, Docker, Kubernetes.
 </p>
