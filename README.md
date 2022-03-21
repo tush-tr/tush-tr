@@ -9,9 +9,9 @@
 
 ### Projects:
 <li><a href="https://tush-tr.github.io/">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
-<li><a href="https://tush-tr.github.io/blogs/">My Blog Website </a>- A blog website, built using nodejs, react, deployed to github pages using github actions.
+<li><a href="https://tush-tr.github.io/blogs/">My Blog Website </a>- A blog website, built using MERN(MongoDB,Expressjs,React,Nodejs) stack, deployed to github pages,heroku using github actions.
 <li><a href="https://github.com/tush-tr/gcloudact">GcloudAct</a> - A Terraform module for hosting your own runner for CI/CD on Google Cloud to run jobs in your GitHub Actions workflows.
-<li><a href="https://tush-tr.github.io/BookAnyCar/">Book Any Car</a> - A car rental system website built using nodejs and EJS.
+<li><a href="https://tush-tr.github.io/BookAnyCar/">Book Any Car</a> - A car rental system website built using MERN(MongoDB,Expressjs,React,Nodejs) stack 
 <li><a href="https://www.npmjs.com/package/@tush-tr/csv2json">csv2json</a> - A npm package to convert your csv files to json.
 <li><a href="https://www.npmjs.com/package/@tush-tr/nosondb">NosonDB</a> - A Simple , Lightweight , Efficent JSON based database for Nodejs.
 
