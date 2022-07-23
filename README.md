@@ -60,6 +60,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" height="65"/> 
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" alt="css3" height="65"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" height="65"/>
+<img src="res/47A7A0CD-9868-4DE1-95A7-0FAED2D67168_4_5005_c.jpeg" alt="next.js" height="65" />
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" height="65"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="65" />
 </p>
