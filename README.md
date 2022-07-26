@@ -44,44 +44,54 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tusharrajput604" height="30" width="40" /></a>
 </p>
 
-<h2>Skills</h2>
+# Skills
+
+## Programming Languages
 <p float="left">
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/js.gif" height="70">
+<img src="res/js.gif" height="70">
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70"/> 
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="70" />
-</a>
+<img src="res/cicd.gif"  height="70" />
 </p>
 <!-- ___________________________________________________________________________ -->
-<h4>Development tools, technologies and frameworks:</h4>
-<p>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/html.gif" alt="html5" height="65"/> 
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/css.gif" alt="css3" height="65"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/react.gif" alt="react" height="65"/>
+
+## Development tools, technologies and frameworks:
+<p float="left">
+<img src="res/html.gif" alt="html5" height="65"/> 
+<img src="res/css.gif" alt="css3" height="65"/>
+<img src="res/react.gif" alt="react" height="65"/>
 <img src="res/47A7A0CD-9868-4DE1-95A7-0FAED2D67168_4_5005_c.jpeg" alt="next.js" height="65" />
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/node.gif" alt="nodejs" height="65"/>
+<img src="res/node.gif" alt="nodejs" height="65"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="65" />
 </p>
 <!-- ______________________________________________________________________ -->
-<h4>CSPs and DevOps</h4>
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" height="65" />
+
+## CSPs
+<p float="left">
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" height="65" width="250"/>
 <img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="65" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="65"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/docker.gif" height="65" >
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/k8s.gif"  height="65" >
-   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
-  </a>
 </p>
+
+
+## DevOps
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="65"/>
+<img src="res/docker.gif" height="65" >
+<img src="res/k8s.gif"  height="65" >
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
+</p>
+
+
+
 <h4>Databases:</h4>
 <p>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" height="65"/>
-<img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" height="65"/> 
+<img src="res/mongo.gif" alt="mongodb" height="65"/>
+<img src="res/postgresql.gif" alt="postgresql" height="70"/> 
+<img src="res/mysql_PNG6.png" alt="mongodb" height="65"/>
 </p>
- <hr>
+
+<hr>
 
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
