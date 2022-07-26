@@ -52,7 +52,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70"/> 
-<img src="res/cicd.gif"  height="70" />
 </p>
 <!-- ___________________________________________________________________________ -->
 
@@ -69,8 +68,9 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 ## CSPs
 <p float="left">
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg" height="65" width="250"/>
-<img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="65" />
+<img src="res/Google-Cloud-Platform-GCP-Logo.png" height="80">
+<img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="80" />
+
 </p>
 
 
@@ -80,6 +80,8 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="res/docker.gif" height="65" >
 <img src="res/k8s.gif"  height="65" >
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
+<img src="res/cicd.gif"  height="65" />
+<img src="res/ghactions.png"  height="65" />
 </p>
 
 
