@@ -81,7 +81,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/mongo.gif" alt="mongodb" height="65"/>
 <img src="https://github.com/tush-tr/tush-tr/blob/master/res/postgresql.gif" alt="postgresql" height="65"/> 
 </p>
- 
  <hr>
 
 <p align="center">
