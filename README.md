@@ -1,6 +1,6 @@
 
 
-<img src="cover.gif" />
+<img src="covera.gif" />
 
 <h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h2>
 
