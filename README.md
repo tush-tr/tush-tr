@@ -1,11 +1,11 @@
+
+
+<img src="cover.gif" />
+
 <h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h2>
 
 
 <h4>I'm a DevOps Engineer and a passionate developer from India with a strong interest in Cloud-Native technologies.</h4>
-
-<img src="/res/MicrosoftTeams-image%20(12).png" />
-
-<b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
 
 ### Projects:
 <li><a href="https://tush-tr.github.io/">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
@@ -17,6 +17,9 @@
 
  
 <hr>
+
+<b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
+
 <!-- Information -->
 <p>
 I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, TypeScript, etc.</p>
