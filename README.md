@@ -28,7 +28,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 </p>
 
 <p>
- Along with my Full-time job, I'm always open to work as a freelancer on projects based on frontend, backend development and DevOps.
+ Along with my Full-time job, I always will to contribute to open-source projects. I've published multiple open source projects including GcloudAct (A terraform module to automate the deployment and hosting process of your own runners on Google cloud to run jobs in your GitHub Actions workflows.) ,NosonDB (A JavaScript package for using json file as a database).
 </p>
  
 <p>I have command on various frontend technologies like HTML, CSS, Vanilla js, React js and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to developing materials and projects on innovative ideas. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
