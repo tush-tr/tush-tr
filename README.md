@@ -17,8 +17,13 @@
 
  
 <hr>
+## Latest Tweets
+<p align='center'><a href="https://twitter.com/ghumare64"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=tush_tr604&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+
 
 <b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
+
+
 
 <!-- Information -->
 <p>
