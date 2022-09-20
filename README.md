@@ -1,13 +1,10 @@
+<h1 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h1>
+<h4>I'm a DevOps Engineer and a passionate developer🧑🏻‍💻  from India with a strong interest in Cloud-Native ☁️ technologies.</h4>
 
+<img src="res/cover.png" />
+<hr>
 
-<img src="covera.gif" />
-
-<h2 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h2>
-
-
-<h4>I'm a DevOps Engineer and a passionate developer from India with a strong interest in Cloud-Native technologies.</h4>
-
-### Projects:
+## Recent Projects:
 <li><a href="https://tush-tr.github.io/">My personal Portfolio</a> - A personal portfolio built using react, deployed to github pages.
 <li><a href="https://tush-tr.github.io/blogs/">My Blog Website </a>- A blog website, built using MERN(MongoDB,Expressjs,React,Nodejs) stack, deployed to github pages,heroku using github actions.
 <li><a href="https://github.com/tush-tr/gcloudact">GcloudAct</a> - A Terraform module for hosting your own runner for CI/CD on Google Cloud to run jobs in your GitHub Actions workflows.
@@ -18,12 +15,23 @@
  
 <hr>
 
-## Latest Tweets
-<p align='center'><a href="https://twitter.com/ghumare64"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=tush_tr604&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
+## Connect with me
+
+<p align="center">
+<a href="https://twitter.com/tush_tr604" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="tush_tr604" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tushar-r-849510116" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="tushar-r-849510116" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/tush_tr" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="tush_tr" height="35" width="40" /></a>
+<a href="https://www.leetcode.com/tush_tr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="tush_tr" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@tusharrajput604" height="30" width="30" /></a> 
+<a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="@tusharrajput604" height="30" width="45" /></a>
+</p>
+
+<p align='center'><a href="https://twitter.com/tush_tr604"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=tush_tr604&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
 
 <b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
 
+<hr>
 
 
 <!-- Information -->
@@ -43,15 +51,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <p>I have command on various frontend technologies like HTML, CSS, Vanilla js, React js and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to developing materials and projects on innovative ideas. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/tush_tr604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tush_tr604" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar-r-849510116" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tushar-r-849510116" height="30" width="40" /></a>
-<a href="https://instagram.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tush_tr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tush_tr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tush_tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tush_tr" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@tusharrajput604" height="30" width="40" /></a>
-</p>
 
 # Skills
 
@@ -69,7 +68,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="res/html.gif" alt="html5" height="65"/> 
 <img src="res/css.gif" alt="css3" height="65"/>
 <img src="res/react.gif" alt="react" height="65"/>
-<img src="res/47A7A0CD-9868-4DE1-95A7-0FAED2D67168_4_5005_c.jpeg" alt="next.js" height="65" />
 <img src="res/node.gif" alt="nodejs" height="65"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="65" />
 </p>
@@ -77,7 +75,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 ## CSPs
 <p float="left">
-<img src="res/Google-Cloud-Platform-GCP-Logo.png" height="80">
+<img src="res/social-icon-google-cloud-1200-630.png" height="80" widtth="100">
 <img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="80" />
 
 </p>
