@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm <a href="https://tush-tr.github.io/">Tushar</a></h1>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm <a href="https://tush-tr.github.io/">Tushar</a>
+
 <h4>I'm a DevOps Engineer and a passionate developer🧑🏻‍💻  from India with a strong interest in Cloud-Native ☁️ technologies.</h4>
 
 <img src="res/cover.png" />
@@ -17,14 +18,14 @@
 
 ## Connect with me
 
-<p align="center">
-<a href="https://twitter.com/tush_tr604" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="tush_tr604" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/tushar-r-849510116" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="tushar-r-849510116" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/tush_tr" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="tush_tr" height="35" width="40" /></a>
-<a href="https://www.leetcode.com/tush_tr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="tush_tr" height="40" width="40" /></a>
-<a href="https://www.hackerearth.com/@tusharrajput604" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="@tusharrajput604" height="30" width="30" /></a> 
-<a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="@tusharrajput604" height="30" width="45" /></a>
-</p>
+<a href="https://www.twitter.com/tush_tr604" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/tush-tr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+<p align="center"> <a href="https://www.github.com/tush-tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://tusharrajpoot.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tush-tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tush_tr604" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://linkedin.com/in/tushar-r-849510116" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCSL_wYi9WB-uPz2_OzKb7bg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
 
 <p align='center'><a href="https://twitter.com/tush_tr604"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=tush_tr604&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
@@ -52,52 +53,56 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <hr>
 
 
-# Skills
+## Skills
 
-## Programming Languages
+### Programming Languages
 <p float="left">
-<img src="res/js.gif" height="70">
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="70" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="70"/> 
+<img src="res/js.gif" height="36" width="36">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="36" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" width="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="36" width="36"/> 
 </p>
 <!-- ___________________________________________________________________________ -->
 
-## Development tools, technologies and frameworks:
+### Development tools, technologies and frameworks:
 <p float="left">
-<img src="res/html.gif" alt="html5" height="65"/> 
-<img src="res/css.gif" alt="css3" height="65"/>
-<img src="res/react.gif" alt="react" height="65"/>
-<img src="res/node.gif" alt="nodejs" height="65"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="65" />
+<img src="res/html.gif" alt="html5" height="36" width="36"/> 
+<img src="res/css.gif" alt="css3" height="36" width="36"/>
+<img src="res/react.gif" alt="react" height="36" width="36"/>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<img src="res/node.gif" alt="nodejs" height="36" width="36"/>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 <!-- ______________________________________________________________________ -->
 
-## CSPs
+### CSPs
 <p float="left">
-<img src="res/social-icon-google-cloud-1200-630.png" height="80" widtth="100">
-<img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="80" />
+<img src="res/social-icon-google-cloud-1200-630.png" height="36" >
+<img src="res/Amazon-Web-Services-Logo-2006-2017-700x394.png" height="36" />
 
 </p>
 
 
-## DevOps
+### DevOps
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="65"/>
-<img src="res/docker.gif" height="65" >
-<img src="res/k8s.gif"  height="65" >
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="65" />
-<img src="res/cicd.gif"  height="65" />
-<img src="res/ghactions.png"  height="65" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="36" width="36"/>
+<img src="res/docker.gif" height="36" width="36" >
+<img src="res/k8s.gif"  height="36" width="36" >
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="36" />
+<img src="res/cicd.gif"  height="36" width="36" />
+<img src="res/ghactions.png"  height="36" width="36" />
 </p>
 
 
 
-<h4>Databases:</h4>
+### Databases:
 <p>
-<img src="res/mongo.gif" alt="mongodb" height="65"/>
-<img src="res/postgresql.gif" alt="postgresql" height="70"/> 
-<img src="res/mysql_PNG6.png" alt="mongodb" height="65"/>
+<img src="res/mongo.gif" alt="mongodb" height="36" width="36"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 <hr>
