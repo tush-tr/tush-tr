@@ -102,7 +102,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 <hr>
 
-[![@tush_tr's Holopin board](https://holopin.io/api/user/board?user=tush_tr)](https://holopin.io/@tush_tr)
+[![@tush_tr's Holopin board](https://holopin.me/tush_tr)](https://holopin.io/@tush_tr)
 
 
 <p align="center">
