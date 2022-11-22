@@ -52,6 +52,9 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
 <tr>
 <td> <a href="https://medium.com/@tush-tr">Medium</a>
 </td>
+<td>
+<a href="https://sessionize.com/tushar-rajpoot">Speaking Sessions</a>
+</td>
 </tr>
 </table>
 
