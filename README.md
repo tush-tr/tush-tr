@@ -55,6 +55,9 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
 <td>
 <a href="https://sessionize.com/tushar-rajpoot">Speaking Sessions</a>
 </td>
+<td>
+<a href="https://g.dev/tush_tr604">Google Dev</a>
+</td>
 </tr>
 </table>
 
