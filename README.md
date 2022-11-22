@@ -113,9 +113,9 @@ and building scalable servers, infrastructure using cloud-native technologies su
 </td>
 <td><li><a href="https://blog.tusharrajpoot.com/">Blogs</a></li>
 </td>
+<td><li><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></li>
 </tr>
 <tr>
-<td><li><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></li>
 </td>
 <td><li><a href="https://www.showwcase.com/tush-tr">Showwcase</a></li>
 </td>
@@ -123,22 +123,17 @@ and building scalable servers, infrastructure using cloud-native technologies su
 </td>
 <td><li> <a href="https://leetcode.com/tush_tr/">Leetcode</a></li>
 </td>
-</tr>
-<tr>
 <td><li> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a></li>
 </td>
 <td><li> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a></li>
 </td>
+</tr>
+<tr>
 <td><li> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a></li>
 </td>
 <td><li> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></li></td>
-</tr>
-<tr>
 <td><li> <a href="https://medium.com/@tush-tr">Medium</a></li>
 </td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
