@@ -24,6 +24,37 @@ src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=for-the
 src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.github.com/tush-tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://tusharrajpoot.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@tush-tr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tush_tr604" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://linkedin.com/in/tushar-r-849510116" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCSL_wYi9WB-uPz2_OzKb7bg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 
+<table>
+<tr>
+<td> <a href="https://twitter.com/tush_tr604">Twitter</a></td>
+<td><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></td>
+<td><a href="https://hashnode.com/@tushtr">Hashnode</a>
+</td>
+<td><a href="https://blog.tusharrajpoot.com/">Blogs</a>
+</td>
+<td><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></td>
+<td><a href="https://www.showwcase.com/tush-tr">Showwcase</a>
+</td>
+</tr>
+<tr>
+<td> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a>
+</td>
+<td> <a href="https://leetcode.com/tush_tr/">Leetcode</a>
+</td>
+<td> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a>
+</td>
+<td> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a>
+</td>
+<td> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a>
+</td>
+<td> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></td>
+</tr>
+<tr>
+<td> <a href="https://medium.com/@tush-tr">Medium</a>
+</td>
+</tr>
+</table>
+
 <b>You can leave me a message via <a href="https://github.com/tush-tr/tush-tr/discussions/categories/guest-book"> GitHub Discussion</a></b>
 
 <hr>
@@ -103,40 +134,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 <!-- [![@tush_tr's Holopin board](https://holopin.me/tush_tr)](https://holopin.io/@tush_tr) -->
 
-
-## Social Profiles:
-<table>
-<tr>
-<td> <a href="https://twitter.com/tush_tr604">Twitter</a></td>
-<td><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></td>
-<td><a href="https://hashnode.com/@tushtr">Hashnode</a>
-</td>
-<td><a href="https://blog.tusharrajpoot.com/">Blogs</a>
-</td>
-<td><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></td>
-<td><a href="https://www.showwcase.com/tush-tr">Showwcase</a>
-</td>
-</tr>
-<tr>
-<td> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a>
-</td>
-<td> <a href="https://leetcode.com/tush_tr/">Leetcode</a>
-</td>
-<td> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a>
-</td>
-<td> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a>
-</td>
-<td> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a>
-</td>
-<td> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></td>
-</tr>
-<tr>
-
-
-<td> <a href="https://medium.com/@tush-tr">Medium</a>
-</td>
-</tr>
-</table>
 
 <!-- <ul width="20%" float="left">
 <li> <a href="https://twitter.com/tush_tr604">Twitter</a></li><li><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></li>
