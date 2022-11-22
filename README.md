@@ -174,7 +174,6 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=tush-tr&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=tush-tr&theme=react&cache_seconds=30&hide_border=true"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tush-tr&theme=dracula"/>
 </p>
 
 <hr>
