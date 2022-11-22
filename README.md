@@ -105,26 +105,68 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 
 ## Social Profiles:
-<p float="left">
+<table>
+<tr>
+<td><li> <a href="https://twitter.com/tush_tr604">Twitter</a></li></td>
+<td><li><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></li></td>
+<td><li><a href="https://hashnode.com/@tushtr">Hashnode</a></li>
+</td>
+<td><li><a href="https://blog.tusharrajpoot.com/">Blogs</a></li>
+</td>
+</tr>
+<tr>
+<td><li><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></li>
+</td>
+<td><li><a href="https://www.showwcase.com/tush-tr">Showwcase</a></li>
+</td>
+<td><li> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a></li>
+</td>
+<td><li> <a href="https://leetcode.com/tush_tr/">Leetcode</a></li>
+</td>
+</tr>
+<tr>
+<td><li> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a></li>
+</td>
+<td><li> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a></li>
+</td>
+<td><li> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a></li>
+</td>
+<td><li> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></li></td>
+</tr>
+<tr>
+<td><li> <a href="https://medium.com/@tush-tr">Medium</a></li>
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-- <a href="https://twitter.com/tush_tr604">Twitter</a>
-- <a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a>
-- <a href="https://hashnode.com/@tushtr">Hashnode</a>
-- <a href="https://blog.tusharrajpoot.com/">Blogs</a>
-- <a href="https://www.polywork.com/tushar_rajpoot">Polywork</a>
-- <a href="https://www.showwcase.com/tush-tr">Showwcase</a>
+<!-- <ul width="20%" float="left">
+<li> <a href="https://twitter.com/tush_tr604">Twitter</a></li><li><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></li>
+</ul>
+
+<ul width="20%" float="center">
+<li><a href="https://hashnode.com/@tushtr">Hashnode</a></li>
+<li><a href="https://blog.tusharrajpoot.com/">Blogs</a></li>
+<li><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></li>
+<li><a href="https://www.showwcase.com/tush-tr">Showwcase</a></li>
+</ul>
+
 </p>
 
-<p float="right">
+<!-- <p float="right"> -->
 
-- <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a>
-- <a href="https://leetcode.com/tush_tr/">Leetcode</a>
-- <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a>
-- <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a>
-- <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a>
-- <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a>
-- <a href="https://medium.com/@tush-tr">Medium</a>
-</p>
+<!-- <p valign="right">
+
+<li> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a></li>
+<li> <a href="https://leetcode.com/tush_tr/">Leetcode</a></li>
+<li> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a></li>
+<li> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a></li>
+<li> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a></li>
+<li> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></li>
+<li> <a href="https://medium.com/@tush-tr">Medium</a></li>
+</p> --> 
 
 
 <p align="center">
