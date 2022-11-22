@@ -107,32 +107,32 @@ and building scalable servers, infrastructure using cloud-native technologies su
 ## Social Profiles:
 <table>
 <tr>
-<td><li> <a href="https://twitter.com/tush_tr604">Twitter</a></li></td>
-<td><li><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></li></td>
-<td><li><a href="https://hashnode.com/@tushtr">Hashnode</a></li>
+<td> <a href="https://twitter.com/tush_tr604">Twitter</a></td>
+<td><a href="https://www.youtube.com/channel/UCSL_wYi9WB-uPz2_OzKb7bg">Youtube</a></td>
+<td><a href="https://hashnode.com/@tushtr">Hashnode</a>
 </td>
-<td><li><a href="https://blog.tusharrajpoot.com/">Blogs</a></li>
+<td><a href="https://blog.tusharrajpoot.com/">Blogs</a>
 </td>
-<td><li><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a></li>
+<td><a href="https://www.polywork.com/tushar_rajpoot">Polywork</a>
 </tr>
 <tr>
 </td>
-<td><li><a href="https://www.showwcase.com/tush-tr">Showwcase</a></li>
+<td><a href="https://www.showwcase.com/tush-tr">Showwcase</a>
 </td>
-<td><li> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a></li>
+<td> <a href="https://www.hackerearth.com/@tusharrajput604">Hackerearth</a>
 </td>
-<td><li> <a href="https://leetcode.com/tush_tr/">Leetcode</a></li>
+<td> <a href="https://leetcode.com/tush_tr/">Leetcode</a>
 </td>
-<td><li> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a></li>
+<td> <a href="https://www.hackerrank.com/tush_tr">Hackerrank</a>
 </td>
-<td><li> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a></li>
+<td> <a href="https://www.holopin.io/@tush_tr">Holopin Badges</a>
 </td>
 </tr>
 <tr>
-<td><li> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a></li>
+<td> <a href="https://www.credly.com/users/tushar-rajpoot/badges">Credly Badges</a>
 </td>
-<td><li> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></li></td>
-<td><li> <a href="https://medium.com/@tush-tr">Medium</a></li>
+<td> <a href="https://partner.cloudskillsboost.google/public_profiles/05b7760f-154e-4d97-a68e-471fee67d2ad">Qwiklabs Gcloud Badges</a></td>
+<td> <a href="https://medium.com/@tush-tr">Medium</a>
 </td>
 </tr>
 </table>
