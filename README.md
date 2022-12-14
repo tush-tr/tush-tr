@@ -128,6 +128,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="36" />
 <img src="res/cicd.gif"  height="36" width="36" />
 <img src="res/ghactions.png"  height="36" width="36" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" height="36" width="36" />
 </p>
 
 
