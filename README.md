@@ -125,6 +125,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="36" width="36"/>
 <img src="res/docker.gif" height="36" width="36" >
 <img src="res/k8s.gif"  height="36" width="36" >
+<img src="res/helm.gif"  height="36" width="36" />
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="36" />
 <img src="res/cicd.gif"  height="36" width="36" />
 <img src="res/ghactions.png"  height="36" width="36" />
