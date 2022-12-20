@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
  
 <hr>
 
-## Connect with me
+## Socials
  
 <table>
 <tr>
@@ -61,6 +61,9 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
 <td>
 <a href="https://stackoverflow.com/users/14154163/tushar-rajpoot">Stackoverflow</a>
 </td>
+ <td>
+  <a href="https://openprofile.dev/profile/tushtr">LFX Linux Foundation</a>
+ </td>
 </tr>
 </table>
 
