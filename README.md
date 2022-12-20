@@ -88,14 +88,13 @@ and building scalable servers, infrastructure using cloud-native technologies su
 
 
 ## Skills
-
 ### Programming Languages
 <p float="left">
-<img src="res/js.gif" height="36" width="36">
+<img src="res/Javascript_Logo.png" height="36" width="36">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="36" width="36" />
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="36" width="36"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35" width="36"/> 
 </p>
 <!-- ___________________________________________________________________________ -->
 
@@ -124,7 +123,7 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="36" width="36"/>
 <img src="res/docker.gif" height="36" width="36" >
-<img src="res/k8s.gif"  height="36" width="36" >
+<img src="res/kubernetes.svg.png"  height="36" width="36" >
 <img src="res/helm.gif"  height="36" width="36" />
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="36" />
 <img src="res/cicd.gif"  height="36" width="36" />
