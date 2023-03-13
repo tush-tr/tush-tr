@@ -4,6 +4,9 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
 
 # Hi👋🏻 I'm <a href="https://tush-tr.github.io/">Tushar</a>
 
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=DevOps+Engineer;Software/Web+Developer;Youtuber;Blogger;" />
+
+
 <h4>I'm a DevOps Engineer and a passionate developer🧑🏻‍💻  from India with a strong interest in Cloud-Native ☁️ technologies.</h4>
 
 <img src="res/cover.png" />
