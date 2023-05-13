@@ -126,10 +126,13 @@ and building scalable servers, infrastructure using cloud-native technologies su
 <img src="res/docker.gif" height="36" width="36" >
 <img src="res/kubernetes.svg.png"  height="36" width="36" >
 <img src="res/helm.gif"  height="36" width="36" />
+ <img src="https://www.pulumi.com/images/logo/logo-on-white.svg"  height="36" />
+
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="36" />
 <img src="res/cicd.gif"  height="36" width="36" />
 <img src="res/ghactions.png"  height="36" width="36" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" height="36" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" height="36" />
+<img src="https://gitlab.com/uploads/-/system/project/avatar/41322104/argocd-icon.png" height="45" />
 </p>
 
 
