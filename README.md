@@ -69,19 +69,17 @@ src="https://img.shields.io/github/followers/tush-tr?logo=github&style=for-the-b
 
 <!-- Information -->
 <p>
-I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, TypeScript, etc.</p>
+I mostly work on web development using JavaScript and Cloud-Native technologies. I build and develop robust, secure and scalable infrastructure and servers using various Cloud-Native technologies such as Docker, kubernetes, Terraform, GCP, CI/CD and proficient with both frontend and backend web development technologies such as React, Node.js, JavaScript, Golang, TypeScript, etc.</p>
 
 <p>
- I'm currenty working as a DevOps Engineer at HCL Technologies. I mostly work on designing and developing features and enhancements with Node.js and cloud-native technologies for our client's products,
-creating fully automated CI/CD workflows using github actions, jenkins
-and building scalable servers, infrastructure using cloud-native technologies such as Terraform, GCP, Docker, Kubernetes.
+ I'm currenty working as a DevOps Engineer at Amazon. I mostly work on automating and managing critical deployments and tasks over a large infrastructure.
 </p>
 
 <p>
  Along with my Full-time job, I always will to contribute to open-source projects. I've published multiple open source projects including GcloudAct (A terraform module to automate the deployment and hosting process of your own runners on Google cloud to run jobs in your GitHub Actions workflows.) ,NosonDB (A JavaScript package for using json file as a database).
 </p>
  
-<p>I have command on various frontend technologies like HTML, CSS, Vanilla js, React js and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to developing materials and projects on innovative ideas. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
+<p>I have command on various frontend technologies like HTML, CSS, Vanilla JS, React JS and backend technologies like Node.js, Rest APIs, GRPC, GraphQL, etc. I love to develop materials and projects on innovative ideas. I am fully committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.</p>
 <hr>
 
 
